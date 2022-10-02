@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @yshrj9
 - 👀 I’m interested in Computer Science, Maths, TV, Animals
 - 🌱 I’m currently learning Computer Science
-- 📫 How to reach me? Don't
+- 📫 How to reach me? mailto: yshrj9@gmail.com Telegram: @yshrj9
+- will add soon
